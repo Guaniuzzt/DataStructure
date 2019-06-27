@@ -2,5 +2,5 @@
 
 /bin
 
-1.queue \n
+1.queue  
 2.spareArray
